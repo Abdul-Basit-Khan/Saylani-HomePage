@@ -1,0 +1,342 @@
+/* Header Section */
+.container-fluid{
+    width: 100%;
+    height: 48px;
+    background-color: #316dc3!important;
+}
+.social_icons{
+    color: white;
+    padding: 13px;
+    margin-left: 105px!important;
+    letter-spacing: 12px;
+    font-size: 15px;
+}
+.header_text{
+    color: white;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: 11px;
+    text-align: right;  
+}
+
+.button{
+    margin-top: 10px;
+}
+.header_button{
+    color: green    !important;
+    background-color:#f5f5f5;
+    padding: 6px 11px;
+    font-size: 11px;
+    margin-left: 2px;
+    text-decoration: none!important;
+}
+/* End of Header Section */
+
+/* Headlines */
+.news{
+    text-align: center;
+    margin-top: 5px;
+}
+.headlines{
+    width: 85%;
+    font-size: 13px;
+    /* text-align: center; */
+    background-color:#316dc3;
+    color: white;
+    height: 28px;
+    overflow: hidden;
+}
+.txt-green{
+color:greenyellow;
+}
+.txt-blue{
+    color: #000fff;
+}
+/* Headlines / */
+
+/* Introduction */
+.intro-heading{
+    text-align: center;
+    /* margin-top: 90px; */
+    color: #316dc3;
+    font-size: 33px;
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+}
+.logo2{
+    margin: 0 auto;
+    top: -30px;
+    margin-left: 42.5%;
+    width: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+.intro-p{
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+    text-align: justify;
+    font-size: 14px;
+    color: #666666;
+}
+/* Introduction / */
+
+/* Counter Box */
+.counter-box{
+    width: 100%;
+    height: 300px;
+    position: relative;
+    background-color:#2755e9;
+}
+
+.food-box{
+    width: 25%;
+    height: auto;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 80px;
+    /* background-color: red; */
+    font-family: 'Merriweather', serif;
+}
+.family-box{
+    width: 25%;
+    height: auto;
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 80px;
+    /* background-color: red; */
+    font-family: 'Merriweather', serif;
+}
+.medical-box{
+    width: 25%;
+    height: auto;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 80px;
+    /* background-color: red; */
+    font-family: 'Merriweather', serif;
+}
+.education-box{
+    width: 25%;
+    height: auto;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 80px;
+    /* background-color: red; */
+    font-family: 'Merriweather', serif;
+}
+/* Counter Box / */
+
+
+/* Sadqha Box */
+.sadqah-box{
+    background-color: #f5f5f5;
+
+}
+.sadqah-box-data{
+    background-color:#ffffff;
+    height: 180px;
+    box-shadow: 0px 10px 19px -5px grey;
+    font-size: 18px;
+    font-family: 'Merriweather', serif;
+    font-weight:700;
+    color: #316dc3;
+}
+/* Sadqha Box / */
+
+
+/* Mission */
+.mission{
+    margin-top: 40px;
+    color:#316dc3;
+    font-family: 'Merriweather', serif;
+    font-size: 24px;
+    margin-left: 8.9%;
+    font-weight: bold;
+}
+.mission-details{
+    width: 57%;
+    height: 180px;
+    margin-left:8.9%;
+    margin-top: 20px;
+    /* background-color: red; */
+}
+/* Hepatitis Box */
+.hepatitis{
+    background-color:#f7f8fA;
+    border: 1px solid #ebebf0;
+    width: 357px;
+    height: 75px;
+}
+.hepatitis h1{
+    font-size: 15px;
+    color:#316dc3;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    margin-left: 20%;
+    margin-top: -6.5%;
+}
+.hepatitis img {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+/* End / */
+
+/* IT Box */
+.housing{
+    background-color:#f7f8fA;
+    border: 1px solid #ebebf0;
+    width: 357px;
+    height: 75px;
+}
+.housing h1{
+    font-size: 15px;
+    color:#316dc3;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    margin-left: 20%;
+    margin-top: -6.5%;
+}
+.housing img {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+/* End / */
+
+/* Housing Box */
+.housing{
+    background-color:#f7f8fA;
+    border: 1px solid #ebebf0;
+    width: 357px;
+    height: 75px;
+}
+.housing h1{
+    font-size: 15px;
+    color:#316dc3;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    margin-left: 20%;
+    margin-top: -6.5%;
+}
+.housing img {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+/* End / */
+
+/* Thar Box */
+.thar{
+    background-color:#f7f8fA;
+    border: 1px solid #ebebf0;
+    width: 357px;
+    height: 75px;
+}
+.thar h1{
+    font-size: 15px;
+    color:#316dc3;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    margin-left: 20%;
+    margin-top: -6.5%;
+}
+.thar img {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+/* End / */
+/* Mission / */
+
+/* Upcoming Events */
+.upcoming{
+    width: 30%;
+    height: 310px;
+    margin-top: -18.5%;
+    color:#316dc3;
+    font-family: 'Merriweather', serif;
+    font-size: 24px;
+    margin-left: 66%;
+    font-weight: bold;
+    /* background-color: red; */
+}
+
+.events{
+    width: 60%;
+    height: 220px;
+    font-size: 13px;
+    font-family: 'Merriweather', serif;
+    color: #9b9797;
+    text-align: left;
+    /* background-color: red; */
+    overflow: hidden;
+    margin-top: 15px;
+    letter-spacing: .4px;
+}
+/* Upcoming Events End */
+
+/* Gallery */
+
+.gallery:hover{
+    opacity: 0.3;
+    border: 5px solid rgb(131, 129, 129);  
+}
+/* Gallery End / */
+
+/* Footer */
+.footer{
+    width: 100%;
+    height: 330px;
+    background-color: #25272e!important;
+    margin-top: 180px;
+    position: relative;
+}
+.contact{
+    margin-top: 80px;
+    width: 500px;
+    height: 260px;
+    color: #bbbbbb;
+    font-size: 16px;
+    line-height: 27px;
+    /* background-color: red; */
+}
+.contact i {
+    color: green;
+}
+
+.useful{
+    font-size: 14px;
+    font-weight: bolder;
+    color: #ffffff;
+    font-family: 'Merriweather', serif;
+    margin-top: 80px;
+}
+.social{
+    font-size: 14px;
+    font-weight: bolder;
+    color: #ffffff;
+    font-family: 'Merriweather', serif;
+    margin-top: 80px;
+}
+.social-icons{
+    background-color: #316dd9;
+    border-radius: 50%;
+    padding: 8px 11px;
+    margin-left: 6px;
+    color: #fff; 
+    font-size: 13px; 
+}
+/* Footer End */
+
+/* Copyright */
+.copy{
+    width: 100%;
+    height: 40px;
+    background-color: #316dd9;
+}
+.copy h1 {
+    color: white;
+    font-size: 11px;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 60px;
+}
+/* End / */
